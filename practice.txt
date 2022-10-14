@@ -3,3 +3,5 @@ for command line git tutorial
 practice.txt file is edited
 
 this is a second practic.
+
+git pull last practice
